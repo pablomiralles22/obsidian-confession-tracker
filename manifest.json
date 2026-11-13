@@ -1,0 +1,10 @@
+{
+	"id": "confession-tracker",
+	"name": "Confession Tracker",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.7",
+	"description": "Examination of conscience with counters per question, reset each time you go to confession.",
+	"author": "Pablo",
+	"authorUrl": "https://github.com/pablomiralles22",
+	"isDesktopOnly": false
+}

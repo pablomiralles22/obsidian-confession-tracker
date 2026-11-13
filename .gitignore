@@ -1,0 +1,11 @@
+node_modules/
+main.js
+styles.css
+data.json
+
+# Windows download metadata
+*:Zone.Identifier
+
+# Private notes
+CLAUDE.md
+requisites.MD

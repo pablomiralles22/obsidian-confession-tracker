@@ -1,0 +1,17 @@
+{
+	"name": "confession-tracker",
+	"version": "0.1.0",
+	"private": true,
+	"license": "MIT",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "tsc && node esbuild.config.mjs production"
+	},
+	"devDependencies": {
+		"@fontsource/eb-garamond": "^5.3.0",
+		"@types/node": "^26.6.6",
+		"esbuild": "^0.28.2",
+		"obsidian": "^1.14.4",
+		"typescript": "^7.0.2"
+	}
+}
